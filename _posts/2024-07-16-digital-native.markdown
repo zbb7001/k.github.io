@@ -1,16 +1,16 @@
-
-
 ---
 layout:     post
-title:      "00000  实词"
-subtitle:   "实词"
-date:       2024-07-20 
-author:     "Hux"
-header-img: "img/post-bg-unix-linux.jpg"
+title:      "古文初探"
+subtitle:   " \"古文1\""
+date:       2024-07-21 12:00:00
+author:     "zbb"
+header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-  - 古文
----
+    - 古文
+    ---
+
+    > “Yeah It's on. ”
 
 > This document is not completed and will be updated anytime.
 
