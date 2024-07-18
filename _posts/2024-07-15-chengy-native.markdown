@@ -4,7 +4,7 @@ title:      "成语学习"
 subtitle:   " \"成语1\""
 date:       2024-07-19 12:00:00
 author:     "Zbb"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
     - 成语
