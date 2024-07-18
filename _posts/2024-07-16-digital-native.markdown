@@ -10,7 +10,7 @@ tags:
     - 文言文
 ---
 
-> “Yeah It's on. ”
+> “文言文短语”
 
 # 01 <span style="color: #ff7f7f; font-size:22px">度</span>我至军中，公乃入。沛公已去，<span style="color: #ff7f7f; font-size:22px">间</span>至军中。张良入谢。 [^001]
 - 度 duó：估计。
