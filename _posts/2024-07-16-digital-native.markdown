@@ -10,13 +10,9 @@ tags:
     - Meta
     ---
 
-> “Yeah It's on. ”
+> “on. ”
 
 > This document is not completed and will be updated anytime.
-
-<span style="color: #c0ebef;">
-<center><table><td bgcolor=#000000>2<td bgcolor=#11fff0><font size = '6'><span style="color: #f1a000;">古文</font><td bgcolor=#000000>2</table></center>
- <br>
 
 
 # 01 <span style="color: #ff7f7f; font-size:22px">度</span>我至军中，公乃入。沛公已去，<span style="color: #ff7f7f; font-size:22px">间</span>至军中。张良入谢。 [^001]
