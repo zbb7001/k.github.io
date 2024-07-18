@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "成语学习"
-subtitle:   " \"成语2\""
+title:      "文言文"
+subtitle:   " \"古文 实词\""
 date:       2024-07-19 12:00:00
-author:     "Hux"
+author:     "zbb"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - Meta
+    - 文言文
 ---
 
 > “Yeah It's on. ”
