@@ -12,7 +12,7 @@ tags:
 
 > “on. ”
 
-> This document is not completed and will be updated anytime.
+
 
 
 # 01 <span style="color: #ff7f7f; font-size:22px">度</span>我至军中，公乃入。沛公已去，<span style="color: #ff7f7f; font-size:22px">间</span>至军中。张良入谢。 [^001]
