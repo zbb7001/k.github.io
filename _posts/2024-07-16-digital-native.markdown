@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "古文初探"
+title:      "古文"
 subtitle:   " \"古文1\""
-date:       2024-07-21 12:00:00
+date:       2024-07-19 12:00:00
 author:     "zbb"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -10,7 +10,7 @@ tags:
     - Meta
     ---
 
-    > “Yeah It's on. ”
+> “Yeah It's on. ”
 
 > This document is not completed and will be updated anytime.
 
