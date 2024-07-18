@@ -4,7 +4,7 @@ title:      "文言文"
 subtitle:   " \"古文 实词\""
 date:       2024-07-19 12:00:00
 author:     "zbb"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-rwd.jpg"
 catalog: true
 tags:
     - 文言文
