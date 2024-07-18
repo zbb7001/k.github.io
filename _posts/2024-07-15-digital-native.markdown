@@ -3,14 +3,14 @@ layout:     post
 title:      "成语学习"
 subtitle:   " \"成语1\""
 date:       2024-07-19 12:00:00
-author:     "Hux"
+author:     "Zbb"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - Meta
+    - 成语
 ---
 
-> “Yeah It's on. ”
+> “成语五百伴 ”
 
 # 01 <span style="color: #ff7f7f; font-size:22px">度</span>我至军中，公乃入。沛公已去，<span style="color: #ff7f7f; font-size:22px">间</span>至军中。张良入谢。 [^001]
 - 度 duó：估计。
