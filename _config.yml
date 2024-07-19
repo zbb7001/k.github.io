@@ -1,9 +1,9 @@
 # Site settings
 title: ☄️掱掱斯☄️
-SEOTitle: 🥣 掱掱斯的博客 🚗
+SEOTitle: 🥣 掱掱斯的博客
 header-img: img/bg-material.jpg
 email: z@zcr07.us.kg
-description: "这是我的博客 | 爱人利物之谓仁。"
+description: "这是我的博客 | 爱人利物之谓仁"
 keyword: "Hux, 鬼栈, @zcr07"
 url: "https://k.zbb07.us.kg/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Kev
 
 # Netease settings
 netease_comment: false
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: k.zbb07.us.kg
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
