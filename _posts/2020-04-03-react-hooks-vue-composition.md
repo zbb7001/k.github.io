@@ -5,7 +5,7 @@ subtitle: "Thinking in React vs. Thinking in Vue"
 author: "Hux"
 header-style: text
 tags:
-  - 成语
+  - 知乎
   - Web
   - React
 ---
