@@ -1,13 +1,14 @@
 ---
 layout:     post
 title:      "文言文"
-subtitle:   " \"古文 而\""
+subtitle:   " \"虚词 而\""
 date:       2024-07-19 12:00:00
 author:     "zbb"
 header-img: "img/post-bg-rwd.jpg"
 catalog: true
 tags:
     - 文言文
+    - 虚词
 ---
 
 > “文言文短语”
