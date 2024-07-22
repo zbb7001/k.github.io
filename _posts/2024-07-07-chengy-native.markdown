@@ -14,9 +14,9 @@ tags:
 
 # 01 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">为</span>虎添翼</span> 👈️ [^001] 
 - wèi hǔ tiān yì
-    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ]    <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 
-- <table><td bgcolor=#75664d><font size = '4'>为虎傅翼</font><td bgcolor=#000000>1</table>
+ <span style="font-family:KaiTi; font-size:27px; color: #00e500; background: #000000">为虎傅翼</span><span style="font-family:KaiTi; font-size:26px; color: #75664d; background: 00e500"> 1</span>
 
 - 为：给，替。
 - 傅 `fù`：添加。 
