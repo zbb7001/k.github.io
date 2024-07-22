@@ -14,9 +14,12 @@ tags:
 
 # 01 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">析骸而<span style="font-family:KaiTi; font-size:30px; color: #00e500">爨</span></span></span> [^001]
 - xī hái ér cuàn
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#ff461f><font size = '4'>析骸以爨</font><td bgcolor=#000000>1</table>
+
 - <table><td bgcolor=#b61aae><font size = '4'>析骨而炊</font><td bgcolor=#000000>1</table>
+
 - 析：劈开；分开。
 - <br><span style="font-family:KaiTi; font-size:40px; color: #00e500">爨</span>：烧火煮饭。
 - 劈开人的骨头来烧火做饭。
@@ -28,7 +31,7 @@ tags:
 
 # 02 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">饿<span style="font-family:KaiTi; font-size:30px; color: #00e500">殍</span>遍野 </span> [^002]
 - . è piǎo biàn yě
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 殍：人饿死后的尸体。
 - 遍野：遍布原野，形容很多。
 - <span style="color: #ff461f; font-size:18px">形容老百姓因饥饿而大量死亡的悲惨景象。</span>
@@ -39,10 +42,14 @@ tags:
 
 # 03 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">比肩接<span style="font-family:KaiTi; font-size:30px; color: #00e500">踵</span></span> [^003]
 - . bǐ jiān jiē zhǒng
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#D60F5B><font size = '4'>比肩继踵</font><td bgcolor=#000000>1</table>
+
 - <table><td bgcolor=#75664d><font size = '4'>摩肩接踵</font><td bgcolor=#000000>2</table>
+
 - <table><td bgcolor=#591942><font size = '4'>摩肩挨背</font><td bgcolor=#000000>3</table>
+
 - 继：一个挨一个。
 - 摩：摩擦。
 - 比：挨著；紧靠。
@@ -57,8 +64,10 @@ tags:
 
 # 04 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">接踵而来 </span> [^004]
 - . jiē zhǒng ér lái
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+  - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+ 
 - <table><td bgcolor=#591942><font size = '4'>接踵而至</font><td bgcolor=#000000>1</table>
+ 
 - 踵：脚后跟。
 - 接踵：后面人的脚尖接着前面人的脚后跟。
 - 指人们前脚跟着后脚，接连不断地来。
@@ -70,9 +79,12 @@ tags:
 
 # 05 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">摩顶放踵</span> [^005]
 - . mó dǐng fàng zhǒng
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+ 
 - <table><td bgcolor=#ec6800><font size = '4'>摩顶至足</font><td bgcolor=#000000>1</table>
+ 
 - <table><td bgcolor=#b61aae><font size = '4'>摩顶至踵</font><td bgcolor=#000000>1</table>
+ 
 - 摩：摩擦。
 - 顶：头顶。
 - 放：至。
@@ -89,7 +101,7 @@ tags:
 
 # 06 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">格物致知 </span> [^006]
 - .gé wù zhì zhī 
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 格：推究，推敲；
 - 致：获得，取得。
 - <span style="color: #ff461f; font-size:18px">推究事物的原理，从而获得知识。</span>
@@ -100,7 +112,7 @@ tags:
 
 # 07 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">恬</span>不知耻 </span> [^007]
 - .tián bù zhī chǐ
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 恬 `tián`：安然、坦然、无动于衷。
 - 知恥：指对自己的过错自觉羞耻。
 - <span style="color: #ff461f; font-size:18px">做了坏事满不再乎，一点儿也不感到羞耻。</span>
@@ -111,8 +123,10 @@ tags:
 
 # 08 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">筚路<span style="font-family:KaiTi; font-size:30px; color: #00e500">蓝</span>缕</span> [^008]
 - .bì lù lán lǚ
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+  
 - <table><td bgcolor=#003472><font size = '4'><font size = '5'>荜</font>路蓝缕</font><td bgcolor=#000000>1</table>
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - 路：车。
 - 荜路：柴车；用荆条等编成的简陋车子。
 - 蓝：,通“褴”；无缘饰的破旧短衣。泛指服饰破烂。
@@ -128,9 +142,12 @@ tags:
 
 # 09 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">蓬荜生辉 </span> [^009]
 - .péng bì shēng huī
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+  
 - <table><td bgcolor=#00bc12><font size = '4'>蓬荜生光</font><td bgcolor=#000000>1</table>
+ 
 - <table><td bgcolor=#014F59><font size = '4'>蓬荜增辉</font><td bgcolor=#000000>2</table>
+ 
 - 蓬：飞蓬，蓬草。
 - 荜：指用荆条、树枝、竹子等编成的遮拦物。
 - 蓬荜：<span style="font-size:17px; color: #111p8462; background: #003472">蓬门荜户</span>的缩语，用飞蓬、树枝、荆条等做的门。形容贫寒人家房屋简陋。此处为简陋的房屋。
@@ -145,7 +162,7 @@ tags:
 
 # 10 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">民生<span style="font-family:KaiTi; font-size:30px; color: #00e500">凋</span>敝 </span> [^010]
 - . mín shēng diāo bì 
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 民生：人民的生计；
 - 凋敝：衰败，困苦。
 - <span style="color: #ff461f; font-size:18px">社会穷困，经济萧条，人民生活极端困苦。</span></span>
@@ -156,8 +173,10 @@ tags:
 
 # 11 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">黯</span>然神伤 </span> [^011]
 - .àn rán shén shāng
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+ 
 - <table><td bgcolor=#75664d><font size = '4'></font>黯然伤神<td bgcolor=#000000>1</table>
+
 - 黯：心神沮丧。
 - 黯然：心情沮丧的样子。
 - 伤：忧伤。
@@ -171,7 +190,7 @@ tags:
 
 # 12 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">黯然销魂 </span> [^012]
 - .àn rán xiāo hún 
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 黯然：心怀沮丧、面色难看的样子；
 - 销：去掉。
 - 魂：迷信的人指附在人体上，主宰人，又可离开肉体而独立存在的实体。
@@ -185,9 +204,12 @@ tags:
 
 # 13 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">同仇敌<span style="font-family:KaiTi; font-size:30px; color: #00e500">忾</span></span> [^013]
 - .tóng chóu dí kài
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#d7003a><font size = '4'>同仇敌慨</font><td bgcolor=#000000>kǎi</table>
+
 - <table><td bgcolor=#003472><font size = '4'>敌忾同仇</font><td bgcolor=#000000>kài</table>
+ 
 - 直译为 敌王所忾 与子同仇 抵挡天子所愤恨的人 你我同心协力对待敌人
 - 仇：深切的怨恨。
 - 同仇：同心协力对待敌人。
@@ -208,8 +230,10 @@ tags:
 
 # 14 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">呶呶</span>不休 </span> [^014]
 - .náo náo bù xiū
- - <table><td bgcolor=#003472><font size = '4'>喋喋不休</font><td bgcolor=#000000>dié</table> 
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
+- <table><td bgcolor=#003472><font size = '4'>喋喋不休</font><td bgcolor=#000000>dié</table> 
+
 - 呶呶：形容说话唠叨；
 - 喋喋：言语烦琐、啰唆；
 - 休：停止。
@@ -223,8 +247,10 @@ tags:
 
 # 15 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">栉</span>风沐雨 </span> [^015]
 - .zhì fēng mù yǔ
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#014F59><font size = '4'>沐雨栉风</font><td bgcolor=#000000>1</table>
+
 - 直译为　风梳发，雨洗头
 - 栉：梳头发。
 - 沐：洗头发；泛指洗涤。 如　沐浴
@@ -237,7 +263,7 @@ tags:
 
 # 16 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">命途多<span style="font-family:KaiTi; font-size:30px; color: #00e500">舛</span></span> [^016]
 - .mìng tú duō chuǎn
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+  - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 命途：指人生的遭遇经历。
 - 舛：不顺，不幸。
 - 命运充满不顺。
@@ -250,9 +276,12 @@ tags:
 
 # 17 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">时乖命舛</span> [^017]
 - .shí guāi mìng chuǎn
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#591942><font size = '4'>时乖运舛</font><td bgcolor=#000000>chuǎn</table>
+
 - <table><td bgcolor=#014F59><font size = '4'>时乖命蹇</font><td bgcolor=#000000>jiǎn</table> 
+
 - <table><td bgcolor=#003472><font size = '4'>命蹇时乖</font><td bgcolor=#000000>jiǎn</table>
 - 时：时运。
  - 🎏 时运：当时的运数、运气。
@@ -277,9 +306,12 @@ tags:
 
 # 18 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">怙恶不<span style="font-family:KaiTi; font-size:30px; color: #00e500">悛</span></span> [^018] 
 - . hù è bù quān
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#b61aae><font size = '4'>长恶不悛</font><td bgcolor=#000000>1</table>
+
 - <table><td bgcolor=#00bc12><font size = '4'>长恶靡悛</font><td bgcolor=#000000>mǐ</table> 
+
 - 怙：依靠，仗恃、坚持。
 - 恶：作恶。
 - 悛：悔改。
@@ -293,7 +325,7 @@ tags:
 
 # 19 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">卖官<span style="font-family:KaiTi; font-size:30px; color: #00e500">鬻</span>爵 </span> [^019]
 - .mài guān yù jué
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 官：官职。
 - <br><span style="font-family:KaiTi; font-size:40px; color: #00e500">鬻</span>：卖。
 - 爵：爵位。
@@ -305,8 +337,10 @@ tags:
 
 # 20 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">满目疮痍</span> [^020]
 - .mǎn mù chuāng yí
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#D60F5B><font size = '4'>疮痍满目</font><td bgcolor=#000000>1</table>
+
 - 满目：整个视野。
  - 🎏 视野：眼睛所能看到的空间范围。
 - 疮：同创 chuāng，创伤。
@@ -321,7 +355,7 @@ tags:
 
 # 21 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">鳞次栉比 </span> [^021]
 - .lín cì zhì bǐ
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 鳞：鱼鳞。
 - 次：依次排列。
 - 栉：梳子篦子的总称。
@@ -336,7 +370,7 @@ tags:
 
 # 22 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">厉兵秣马 </span> [^022]
 - . lì bīng mò mǎ 
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 厉：同“砺”，磨；
 - 兵：兵器；
 - 秣：喂牲口。
@@ -348,7 +382,7 @@ tags:
 
 # 23 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">觥筹交错 </span> [^023]
 - . gōng chóu jiāo cuò
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 觥：古代的一种酒器；
 - 筹：行酒令的筹码。
 - 交错：交叉错杂。
@@ -356,6 +390,7 @@ tags:
 - <span style="color: #ff461f; font-size:18px">形容许多人聚会喝酒时的热闹场景。</span> 
 
 <img src="https://zbing-my.sharepoint.com/:i:/g/personal/k55_zbing_onmicrosoft_com/EalZBrLrIqJDmb8QZQY79vYBHLEZIrGmdUoXF2tv6CrhlQ?download=1" style="zoom:65%;" />
+
 <img src="https://zbing-my.sharepoint.com/:i:/g/personal/k55_zbing_onmicrosoft_com/EUK516GjIVRIvSftIAXorwoBMXOmqWOGEg7qj0G4fvMaGA?download=1" style="zoom:75%;" />
 
 > ✌️ 不远处浪涛的声音在他听来，那声音华美动听，不像浪涛之声，倒像是远方传来的飨xiǎng宴上觥筹交错之声。
@@ -364,9 +399,12 @@ tags:
 
 # 24 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">功亏一<span style="font-family:KaiTi; font-size:30px; color: #00e500">篑</span></span> [^024] 
 - . gōng kuī yī kuì
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
-- <table><td bgcolor=#ec6800><font size = '4'>九仞一篑</font><td bgcolor=#000000>1</table>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+ 
+ - <table><td bgcolor=#ec6800><font size = '4'>九仞一篑</font><td bgcolor=#000000>1</table>
+
 - <table><td bgcolor=#00bc12><font size = '4'>为山九仞，功亏一簣</font><td bgcolor=#000000>1</table>
+
 - 功：成功；成就。
 - 亏：欠缺；
 - 篑：盛土的筐子。
@@ -379,7 +417,7 @@ tags:
 
 # 25 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">蛊惑人心 </span> [^025] 
 - . gǔ huò rén xīn
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 蛊惑：迷惑。
 - <span style="color: #ff461f; font-size:18px">指用欺骗引诱等手段迷惑人，搞乱人的思想。</span>
  > ✌️ 。“9·11”事件之后，有关阴谋论的网站如雨后春笋大量涌现。不可否认，它们传播的那些奇谈怪论，听起来确实能够蛊惑人心。
@@ -388,7 +426,7 @@ tags:
 
 # 26 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">风流倜傥 </span> [^026]
 - . fēng liú tì tǎng
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 风流：英俊而有才华。
 - 倜傥：豪放不羁，洒脱自在，不受拘束的样子。
 - <span style="color: #ff461f; font-size:18px">形容人才华横溢，英俊潇洒，而言行不受世俗礼节的拘束。</span>
@@ -398,7 +436,7 @@ tags:
 
 # 27 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">焚膏继<span style="font-family:KaiTi; font-size:30px; color: #00e500">晷</span></span> [^027]
 - . fén gāo jì guǐ
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 膏：油脂，指灯烛；
 - 继：继续，接替；
 - 晷：日光。
@@ -410,7 +448,7 @@ tags:
 
 # 28 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">风声鹤唳 </span> [^028] 
 - . fēng shēng hè lì
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 唳：鹤叫声。
 - 听到风声和鹤叫声都以为是追兵。
 - <span style="color: #ff461f; font-size:18px">形容人在惊慌时，疑心重重。</span>
@@ -420,7 +458,7 @@ tags:
 
 # 29 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">放荡不<span style="font-family:KaiTi; font-size:30px; color: #00e500">羁</span> [^029] 
 - . fàng dàng bù jī
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 放荡：行为不受约束或不加检点。
 - 羁：约束。
 - 不羁 jī ：不受约束；豪放。
@@ -431,7 +469,7 @@ tags:
 
 # 30 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">飞扬跋<span style="font-family:KaiTi; font-size:30px; color: #00e500">扈</span></span> [^030] 
 - . fēi yáng bá hù
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+     - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 鸷zhì鸟飞扬，大鱼跋扈。
  - - 小鱼戢戢波面浮，大鱼跋扈高一丈。
  - 🎏 戢戢 `jí`：鱼张口貌。
@@ -446,7 +484,7 @@ tags:
 
 # 31 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">分道扬<span style="font-family:KaiTi; font-size:30px; color: #00e500">镳</span></span> [^031]
 - . fēn dào yáng biāo
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 鑣：马嚼子。
 - 扬镳：提起马嚼子，谓驱马前行。
 - 意谓分路而行。
@@ -457,11 +495,16 @@ tags:
 
 # 32 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">返<span style="font-family:KaiTi; font-size:30px; color: #00e500">璞</span>归真</span> [^032] 
 - . fǎn pú guī zhēn
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#014F59><font size = '4'>归真返璞</font><td bgcolor=#000000>pú</table>
+
 - <table><td bgcolor=#00bc12><font size = '4'>返朴归真</font><td bgcolor=#000000>pǔ</table>
+
 <img src="https://zbing-my.sharepoint.com/:i:/g/personal/k55_zbing_onmicrosoft_com/ES7slpx50z1DrbMxY3xQHOQBZ1kJBrJIld4tcYwcX9gjYA?download=1" style="zoom:60%;" />
+
 <img src="https://zbing-my.sharepoint.com/:i:/g/personal/k55_zbing_onmicrosoft_com/EfSz3isdWVBGlH4TUo5bWT0B8rWy45xVLH7qrwlGMKSZQA?download=1" style="zoom:64%;" />
+
 <img src="https://zbing-my.sharepoint.com/:i:/g/personal/k55_zbing_onmicrosoft_com/EatqXHmZ7b1IjixbqFw9dAwBGvltELQ8jRQ_OGeAIxDT7w?download=1" style="zoom:68%;" />
 
 - - 🎏 父fǔ：对老年男子的尊称。如尚父(吕尚,即姜太公)。
@@ -476,7 +519,7 @@ tags:
 
 # 33 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">嗤</span>之以鼻</span> [^033]
 - . chī zhī yǐ bí
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 嗤：讥笑、嘲笑。
 - 之：别人。
 - 用鼻子发出冷笑声，表示看不起。
@@ -491,9 +534,12 @@ tags:
 
 # 34 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">殚</span>精竭虑</span> [^034] 
 - . dān jīng jié lǜ
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#b61aae><font size = '4'>殚精竭力</font><td bgcolor=#000000>1</table>
+
 - <table><td bgcolor=#003472><font size = '4'>殚精毕力</font><td bgcolor=#000000>2</table>
+
 - 殚、竭、毕：竭尽； 
 - 精：精力。 
  - 🎏 精力：精神和体力。
@@ -507,7 +553,7 @@ tags:
 
 # 35 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">岿</span>然不动</span> [^035]
 - . kuī rán bù dòng
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 岿然：山势高峻的样子；高大屹立的样子。
 - 象高山一样挺立着一动不动。
 - <span style="color: #ff461f; font-size:18px">形容高大、坚固，不可动摇。</span>
@@ -518,7 +564,7 @@ tags:
 
 # 36 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">苦心孤诣</span> [^036] 
 - . kǔ xīn gū yì
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 苦心：刻苦用心。
 - 孤：特出的；杰出的。
  - 🎏 特出：特别出众；格外突出：
@@ -534,7 +580,7 @@ tags:
 
 # 37 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">溘</span>然长逝</span> [^037] 
 - . kè rán cháng shì
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 溘然： 1.忽然。2.谓忽然去世。
 - 长逝：婉辞。指人死亡（含庄重色彩）。
 - <span style="color: #ff461f; font-size:18px">指死去。</span>
@@ -545,7 +591,7 @@ tags:
 
 # 38 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">铿</span>锵有力</span> [^038]
 - . kēng qiāng yǒu lì
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 铿锵：形容人声洪亮或深沉坚定。
 - <span style="color: #ff461f; font-size:18px">形容声音洪亮，很有力量。</span>
 
@@ -555,7 +601,7 @@ tags:
 
 # 39 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">踽</span>踽独行</span> [^039]
 - . jǔ jǔ dú xíng
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 踽踽：孤零的样子。
 - 孤零零地独自走着。
 - <span style="color: #ff461f; font-size:18px">形容非常孤独。</span>
@@ -566,7 +612,7 @@ tags:
 
 # 40 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">不落<span style="font-family:KaiTi; font-size:30px; color: #00e500">窠</span>臼</span> [^040]
 - . bù luò kē jiù
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 落：落入，掉入。
 - 窠：鸟巢；
 - 臼：舂米的石器。
@@ -579,7 +625,7 @@ tags:
 
 # 41 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">沆<span style="font-family:KaiTi; font-size:30px; color: #00e500">瀣</span>一气</span> [^041] 
 - . hàng xiè yī qì
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - <span style="font-family:KaiTi; font-size:30px; color: #00e500">沆瀣</span>：本意指夜间的水气，露水。也比喻氣味相投。
  - 🎏 唐朝有个主考官崔沆，录取了他的门生崔瀣，人们嘲讽他们二人沆瀣一气。后因称气味相投为“沆瀣一气”。
 - 一气：指声气相通，结为一伙。
@@ -591,7 +637,7 @@ tags:
 
 # 42 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">夙兴夜<span style="font-family:KaiTi; font-size:30px; color: #00e500">寐</span></span> [^042]
 - .sù xīng yè mèi
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 夙：早；
 - 兴：起来；
 - 寐：睡。
@@ -604,7 +650,7 @@ tags:
 
 # 43 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">高牙大<span style="font-family:KaiTi; font-size:30px; color: #00e500">纛</span></span> [^043]
 - . gāo yá dà dào
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 牙：牙旗，将军的大旗。
 - <br><span style="font-family:KaiTi; font-size:45px; color: #00e500">纛</span>：军中的旗帜。
 - 指高级将领或大官的依仗排场，气势大。
@@ -617,8 +663,11 @@ tags:
 # 44 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">吹毛求<span style="font-family:KaiTi; font-size:30px; color: #00e500">疵</span></span> [^044]
 - .chuī máo qiú cī 
 - - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#005243><font size = '4'>吹毛求瑕</font><td bgcolor=#000000>1</table>
+
 - <table><td bgcolor=#591942><font size = '4'>批毛求疵</font><td bgcolor=#000000>2</table>
+
 - 求：找寻；
 - 疵：缺点；错误。
 - 🎏 瑕xiá：玉上的斑点，比喩缺点（与「瑜」相对）。
@@ -635,7 +684,7 @@ tags:
 # 45 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">麻<span style="font-family:KaiTi; font-size:30px; color: #00e500">痹</span>大意</span> [^045]
 
 - .má bì dà yì
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 麻痹：肢体失去知觉和运动机能障碍，用来比喻失去警觉。
 - 大意：疏忽，不注意。
 - 🎏 大意：主要的意思。如段落大意。
@@ -648,7 +697,7 @@ tags:
 # 46 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">囫囵</span>吞枣</span> [^046]
 
 - .hú lún tūn zǎo
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 囫囵：整个儿。
 - 把枣整个咽下去，不加咀嚼，不辨滋味。
 - <span style="color: #ff461f; font-size:18px">比喻对事物不加分析思考。</span>
@@ -659,8 +708,10 @@ tags:
 
 # 47 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">良</span>莠不齐</span> [^047] 
 - . liáng yǒu bù qí
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#75664d><font size = '4'>良莠不分</font><td bgcolor=#000000>1</table>
+
 - 莠：狗尾草，很象谷子，常混在禾苗中。引申喻坏人。
 - 良：好苗，引申指好人。
 - 不齐：不一致。
@@ -671,7 +722,7 @@ tags:
 
 # 48 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">不<span style="font-family:KaiTi; font-size:30px; color: #00e500">稂</span>不莠</span> [^048] 
 - . bù láng bù yǒu
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 稂：狼尾草；
 - 莠：狗尾草。
 - 长得既不象稂又不象莠。
@@ -681,14 +732,15 @@ tags:
 
 > ✌️ 面对学习所带来的压力与挫折，只有勇于面对，加倍努力才行，否则不稂不莠，白白浪费了青春，岂不痛惜。
 
-- 🎏 不郞不秀 `明代 俗语非成语`
+  
+        - 🎏 不郞不秀 `明代 俗语非成语`
 
 - －元明时贵族子弟称为秀，平民子弟称为郞。
 - －意为不高不下，用以比喩不成材或没出息。
 
 # 49 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">刚<span style="font-family:KaiTi; font-size:30px; color: #00e500">愎</span>自用</span> [^049] 
 - . gāng bì zì yòng
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 愎：任性；刚愎：倔强固执；
 - 自用：自以为是。凭个人的主观意志办事。
 - <span style="color: #ff461f; font-size:18px">形容非常固执自信，听不进任何意见和劝告。</span>
@@ -698,9 +750,11 @@ tags:
 
 # 50 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">高屋建<span style="font-family:KaiTi; font-size:30px; color: #00e500">瓴</span></span> [^050]
 - . gāo wū jiàn <span style="color: #ff7f7f; font-size:22px">líng</span>
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#b61aae><font size = '4'>建瓴高屋</font><td bgcolor=#000000>1</table>
-- 建：通<span style="color: #ffff7f; font-size:32px">瀽</span> jiǎn，倾，倒；
+
+- 建：通<span style="color: #ffff7f; font-size:32px">瀽</span> ` jiǎn`，倾，倒；
 - 瓴：盛水的瓶子。
 - 把瓶子里的水从高高的屋脊上倾倒。
 - <span style="color: #ff461f; font-size:18px">比喻居高临下，发展迅速，不可阻挡。</span>
@@ -712,8 +766,8 @@ tags:
 - . hǎi shì shèn lóu
  - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 海市：大气因光折射而形成的反映地面物体的形象。旧称蜃气或蜃楼。亦称“蜃景”。
- - 🎏 光线因不同密度空气层的折射，把远处景物显示在空中或地面的奇异幻景。多发生在夏天沿海一带或沙漠中，发生时可见极远处隐约有山峦、城池、亭台楼阁等，不久就全部消失。古人误以为由蜃(大<span style="color: #ff7f7f; font-size:22px">蛤蜊</span>`gé lí` )吐气所形成的，称之为蜃楼，也叫海市。 
- - 🎏 蛤蟆 há·ma：青蛙和蟾蜍的统称。
+    - 🎏 光线因不同密度空气层的折射，把远处景物显示在空中或地面的奇异幻景。多发生在夏天沿海一带或沙漠中，发生时可见极远处隐约有山峦、城池、亭台楼阁等，不久就全部消失。古人误以为由蜃(<span style="color: #ff7f7f; font-size:22px">大蛤蜊</span>`gé lí` )吐气所形成的，称之为蜃楼，也叫海市。 
+   - 🎏 蛤蟆 há·ma：青蛙和蟾蜍的统称。
 - <span style="color: #ff461f; font-size:18px">现多比喻虚无缥渺的事物。</span>
 
 > ✌️ 梦想绝不是空想，不是海市蜃楼，实现梦想需要实实在在的付出行动。
@@ -722,10 +776,10 @@ tags:
 
 # 52 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">户枢不<span style="font-family:KaiTi; font-size:30px; color: #00e500">蠹</span></span> [^052]
 - . hù shū bù dù
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 户：门。
 - 枢：门轴。
-- <br><span style="font-family:KaiTi; font-size:45px; color: #00e500">蠹</span>：虫蛀。
+- <br><span style="font-family:KaiTi; font-size:30px; color: #00e500">蠹</span>：虫蛀。
 - 经常转动的门轴不会被虫蛀。
 - <span style="color: #ec6800; font-size:18px">比喻经常运动的东西不容易受侵蚀。</span> 
 - <span style="color: #ff461f; font-size:18px">也比喻人经常运动可以强身。</span>
@@ -736,9 +790,13 @@ tags:
 
 # 53 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">瞠目结舌</span> [^053] 
 - . chēng mù jié shé
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#60281e><font size = '4'>瞠目咋舌</font><td bgcolor=#000000>1</table>
-- <table><td bgcolor=#D60F5B><font size = '4'>瞠目挢舌</font><td bgcolor=#000000>2</table>
+
+- <table><td bgcolor=#D60F5B><font size = '4'>瞠目挢舌</font><td 
+bgcolor=#000000>2</table>
+
 - 瞠：瞪着眼；
 - 结舌：说不出话来。
 - 咋舌 zé：咬着舌头，形容吃惊、害怕，说不出话。
@@ -753,7 +811,7 @@ tags:
 
 # 54 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">面面相觑</span> [^054]
 - .miàn miàn xiāng qù
-- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 面面：面孔对著面孔。
 - 觑：看。
 - 相觑：对看；互相看见。
@@ -766,7 +824,7 @@ tags:
 
 # 55 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">病入膏<span style="font-family:KaiTi; font-size:30px; color: #00e500">肓</span></span> [^055]
 - . bìng rù gāo huāng
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 膏：中医指心尖脂肪，认为是药力达不到的部位。
 - 肓：心脏与膈膜之间叫“肓”。
 - 膏肓：中医认为“膏肓”是药力达不到的地方。
@@ -781,7 +839,7 @@ tags:
 
 # 56 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">暴<span style="font-family:KaiTi; font-size:30px; color: #00e500">殄</span>天物</span> [^056]
 - . bào tiǎn tiān wù
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 暴：殘害，糟蹋；
  - 🎏 暴君 bào：暴虐的君主。
 - 殄：尽，灭绝；
@@ -795,7 +853,7 @@ tags:
 
 # 57 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">虎视眈眈</span> [^057]
 - . hǔ shì dān dān
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 眈眈：注视的样子。
 - 象老虎那样凶狠地盯着。
 - <span style="color: #ff461f; font-size:18px">形容心怀不善，伺机攫取。</span>
@@ -806,8 +864,10 @@ tags:
 
 # 58 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #44cef6">桀</span><span style="font-family:KaiTi; font-size:30px; color: #00e500">骜</span>不驯</span> [^058] 
 - . jié ào bù xùn 
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#005243><font size = '4'>桀骜不逊</font><td bgcolor=#000000>1</table>
+
 - 桀：夏王朝第16代君王，历史上有名的暴君，夏朝最后一位当权者，意为凶暴。
 - 骜：马不驯良，比喻傲慢，不驯顺，烈马。
 - 驯：驯服，顺从。
@@ -823,8 +883,10 @@ tags:
 
 # 59 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">假途灭<span style="font-family:KaiTi; font-size:30px; color: #00e500">虢</span></span> [^059]
 - . jiǎ tú miè guó
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+
 - <table><td bgcolor=#b61aae><font size = '4'>假道灭虢</font><td bgcolor=#000000>1</table>
+
 - 假：借；
 - 途：道路；
 - 假途，就是借路。
