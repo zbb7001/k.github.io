@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "成语学习"
-subtitle:   " \"成语1\""
+subtitle:   " \"成语 01\""
 date:       2024-07-19 12:00:00
 author:     "Zbb"
 header-img: "img/post-bg-universe.jpg"
@@ -14,7 +14,7 @@ tags:
 
 # 01 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">物是人非</span> [^001]
 - .wù shì rén fēi
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 物：景物。
 - 是：与非相对，意为没变 、依旧。
 - 非：谓改变，不同原样。
@@ -28,7 +28,7 @@ tags:
 
 # 02 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 数典忘祖 [^002]
 - .shǔ diǎn wàng zǔ
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 数 `shǔ`：数说；
  - 🎏 数说：列举叙述。
 - 典：指历来的制度、掌故，历史事迹。
@@ -45,7 +45,7 @@ tags:
 
 # 03 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 皮开肉绽 [^003]
 - .pí kāi ròu zhàn
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 绽：衣缝脱线解开，引申为裂开。
 - 皮肉都裂开了。
 - <span style="color: #ff461f; font-size:18px">形容伤势严重。多指受残酷拷打。</span>
@@ -55,7 +55,7 @@ tags:
 
 # 04 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 耳濡目染 [^004]
 - .ěr rú mù rǎn
- - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 濡：感染；沾染。
 - 染：沾染。
  - 🎏 沾染： 因接触而受到影响。
@@ -67,7 +67,7 @@ tags:
 
 # 05 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">放浪形骸 [^005]
 - .fàng làng xíng hái
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 浪：放纵。
 - 放浪：放纵不受约束。
  - 🎏 放浪： 也指行为不检点。
@@ -86,7 +86,7 @@ tags:
 
 # 06 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 梦寐以求 [^006]
 - .mèng mèi yǐ qiú
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 寐：睡着。
  - 🎏 <span style="color: #ff7f7f; font-size:22px">寤寐</span> wù mèi ：醒与睡着。常用以指日夜。
 - 做梦的时候都在追求。
@@ -98,7 +98,7 @@ tags:
 
 # 07 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 纷至沓来 [^007]
 - .fēn zhì tà lái
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 纷：众多，杂乱；
 - 沓：多，重复。
 - <span style="color: #ff461f; font-size:18px">形容接连不断的到来。</span>
@@ -109,7 +109,7 @@ tags:
 
 # 08 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 众口难调 [^008]
 - .zhòng kǒu nán tiáo
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 众口：众人之口； 这里指众人的口味。
 - 调：调配。
 - <span style="color: #ec6800; font-size:18px">原意是各人的口味不同，很难做出一种饭菜使所有的人都感到好吃。</span>
@@ -121,7 +121,7 @@ tags:
 
 # 09 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 众口铄金 [^009]
 - .zhòng kǒu shuò jīn
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 众口：众人的言论；舆论。
 - 铄：熔化。
 - <span style="color: #ec6800; font-size:18px">原比喻舆论的力量强大，足以熔化金属。</span>
@@ -133,7 +133,7 @@ tags:
 
 # 10 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 众口一词 [^010]
 - .zhòng kǒu yī cí 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 众口：众人的言论；这里指大家说的。
 - 一：相同；一样。
 - 一词：同样的言辞。
@@ -145,7 +145,7 @@ tags:
 
 # 11 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 不敢苟同 [^011]
 - .bù gǎn gǒu tóng
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 苟：随便。
 - <span style="color: #ec6800; font-size:18px">不敢随便地同意。</span>
 - <span style="color: #ff461f; font-size:18px">指对人对事抱慎重态度。</span>
@@ -156,7 +156,7 @@ tags:
 
 # 12 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 差强人意 [^012]
 - .chā qiáng rén yì
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 差：稍微、大致。
 - 强：振奋。
 - 原指还算能振奋人心。
@@ -168,9 +168,12 @@ tags:
 
 # 13 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 夙夜匪懈 [^013]
 - .sù yè fěi xiè 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+
 - <table><td bgcolor=#60281e><font size = '4'></font>夙夜匪解<td bgcolor=#000000>1</table>
+
 - <table><td bgcolor=#d7003a><font size = '4'></font>夙夜在公<td bgcolor=#000000>1</table>
+
 - 夙夜：早晚，朝夕；
 - 匪：不；
 - 懈：懈怠。
@@ -183,7 +186,7 @@ tags:
 
 # 14 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 尸位素餐 [^014]
  - .shī wèi sù cān
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 尸：谓在其位而无所作为。
 - 尸位：占着职位，却不做事；
 - 素：空。
@@ -198,7 +201,7 @@ tags:
 
 # 15 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 尖酸刻薄 [^015]
 - .jiān suān kè bó
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 尖酸：说话带刺，使人难受。
 - 刻薄：待人处事挑剔、无情。
 - <span style="color: #ff461f; font-size:18px">形容为人刁钻苛刻，冷酷无情。</span>
@@ -209,7 +212,7 @@ tags:
 
 # 16 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 妄自菲薄 [^016]
 - . wàng zì <span style="color: #ff0097; font-size:22px">fěi</span> bó 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 妄：随便、胡乱;
 - 菲薄：小看、轻视。
 - <span style="color: #ff461f; font-size:18px">随意看轻自己。</span>
@@ -220,7 +223,7 @@ tags:
 
 # 17 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 拐弯抹角 [^017]
 - .guǎi wān mò jiǎo
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 抹角：挨墙角绕过。
 - <span style="color: #77461f; font-size:18px">沿着弯弯曲曲的路走。</span>
 - <span style="color: #ff461f; font-size:18px">比喻说话、写文章绕弯子，不直截了当。</span>
@@ -232,7 +235,7 @@ tags:
 
 # 18 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 挂一漏万 [^018]
 - .guà yī lòu wàn
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 挂：钩住，这里指说到、提到;
 - 漏：遗漏。
 - <span style="color: #ff461f; font-size:18px">形容列举少数，遗漏多数。常用作谦辞。</span>
@@ -243,7 +246,7 @@ tags:
 
 # 19 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 古道热肠 [^019]
 - . gǔ dào rè cháng
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 古道：指上古时代淳朴敦厚的民风，这里是真诚、质朴的意思；
 - 热肠：热心肠，热情。
 - <span style="color: #ff461f; font-size:18px">指待人真挚热情。</span>
@@ -254,7 +257,7 @@ tags:
 
 # 20 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 功败垂成 [^020]
 - .gōng bài chuí chéng
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 功：事情；事业。
 - 垂：将近。
 - <span style="color: #ff461f; font-size:18px">事情快要成功的时候失败了。含有惋惜之意。</span>
@@ -265,7 +268,7 @@ tags:
 
 # 21 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 不敢造次 [^021]
 - .bù gǎn zào cì
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 造次：鲁莽、轻率。
 - <span style="color: #ff461f; font-size:18px">指不敢草率行事或鲁莽行事。</span>
 
@@ -275,7 +278,7 @@ tags:
 
 # 22 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 亘古未有 [^022]
 - .gèn gǔ wèi yǒu
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 亘古：自古以来。
 - <span style="color: #ff461f; font-size:18px">形容自古到今从来没有。</span>
 
@@ -285,7 +288,7 @@ tags:
 
 # 23 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 千秋万代 [^023]
 - . qiān qiū wàn dài
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 秋：岁。
 - 一千年，一万代。 指世世代代，时间久长。
 - <span style="color: #ff461f; font-size:18px">形容经历的时间极久。</span>
@@ -296,7 +299,7 @@ tags:
 
 # 24 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 千人诺诺，不如一士谔谔 [^024]
 - qiān rén nuò nuò，bù rú yī shì è è 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 诺诺：连声应诺。表示顺从，不加违逆。
 - 谔谔：直言争辩貌。
 - <span style="color: #ff461f; font-size:18px">指众多唯唯诺诺之人，不如一名诤谏之士可贵。 </span>
@@ -308,7 +311,7 @@ tags:
 
 # 25 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 唯唯诺诺 [^025]
 - .wéi wéi nuò nuò 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 唯唯：谦卑的应答;
 - 诺诺：答应的声音。
 - <span style="color: #ff461f; font-size:18px"> 形容没有自己的主见，卑恭顺从。</span>
@@ -319,8 +322,10 @@ tags:
 
 # 26 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 唯利是图 [^026]
 - .wéi lì shì tú 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+
 - <table><td bgcolor=#014F59><font size = '4'></font>唯利是从<td bgcolor=#000000>1</table>
+
 - 唯：只；
 - 是：助词，用在前置宾语之后；
 - 图：谋取。
@@ -333,8 +338,10 @@ tags:
 
 # 27 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 唯命是听 [^027]
 - .wéi mìng shì tīng 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+
 - <table><td bgcolor=#60281e><font size = '4'></font>唯命是从<td bgcolor=#000000>1</table>
+
 - 唯：只；
 - 是：助词，用于前置宾语之后。
 - 听：听从。
@@ -348,7 +355,7 @@ tags:
 
 # 28 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 罪魁祸首 [^028]
 - .zuì kuí huò shǒu 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 魁、首：头目。
 - 罪魁：罪恶行为的首要分子。
 - 祸首：犹罪魁。指酿成祸患的主要人物。
@@ -360,7 +367,7 @@ tags:
 
 # 29 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 罪不容诛 [^029]
 - .zuì bù róng zhū 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 不容：不能宽容。
 - 诛：处死。
 - <span style="color: #ff461f; font-size:18px">罪恶极大，杀了也抵不了所犯的罪恶。</span>
@@ -371,8 +378,10 @@ tags:
 
 # 30 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 不容分说 [^030] 
 - .bù róng fēn shuō 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+
 - <table><td bgcolor=#591942><font size = '4'></font>不由分说<td bgcolor=#000000>1</table>
+
 - 不容： {动}不许；不让。
 - 分说：辩白，解说。
 - <span style="color: #ff461f; font-size:18px">不容人分辩解释。</span></span>
@@ -383,7 +392,7 @@ tags:
 
 # 31 <span style="font-family:KaiTi; font-size:30px; color: #d7003a">不容置喙 [^031]
 - . bù róng zhì huì
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 容：容许。
 - 喙：嘴。
 - 置喙：插嘴。
@@ -395,7 +404,7 @@ tags:
 
 # 32 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 小心翼翼 [^032] 
 - .xiǎo xīn yì yì 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 翼翼：恭敬谨慎的样子。
 - <span style="color: #ff461f; font-size:18px">举动谨慎、小心的样子。</span>
 
@@ -405,10 +414,14 @@ tags:
 
 # 33 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 盘根问底 [^033]
 - .pán gēn wèn dǐ 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+
 - <table><td bgcolor=#014F59><font size = '4'></font>盘根究底 --- <td bgcolor=#000000>1</table>
+
 - <table><td bgcolor=#60281e><font size = '4'></font>刨根究底 --- 刨根问底<td bgcolor=#000000>4</table>
+
 - <table><td bgcolor=#D60F5B><font size = '4'></font>寻根究底 --- 寻根问底<td bgcolor=#000000>6</table>
+
 - 盘：仔细查问；
 - 问：追究；考察。
 - 根：根源。
@@ -424,7 +437,7 @@ tags:
 
 # 34 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 判若云泥 [^034]
 - .pàn ruò yún ní 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 判：明显不同；
 - 云泥：云在天，泥在地，比喻一个天上一个地下，差距很大。
 - 高低差别就像天上的云彩和地下的泥土那样远。
@@ -436,7 +449,7 @@ tags:
 
 # 35<span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 抛砖<span style="font-family:KaiTi;font-size:30px;color: #44cef6">引</span>玉 [^035]
 - . pāo zhuān yǐn yù 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：引出。
 - 抛出砖块，引来宝玉。
 - <span style="color: #ff461f; font-size:18px">比喻用自己粗浅的、不成熟的意见或论著，引出别人高明的、成熟的意见或作品。多用作谦辞。</span>
@@ -447,7 +460,7 @@ tags:
 
 # 36 <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">而不发 [^036]
 - .yǐn ér bù fā 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：拉弓；
 - 而：连词。表转折。犹然而，却。
 - 发：射箭。
@@ -461,7 +474,7 @@ tags:
 
 # 37 <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">颈受戮 [^037]
 - .yǐn <span style="color: #ff0097; font-size:22px">jǐng</span> shòu lù 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：伸长；
 - 戮：杀。
 - 受戮：被杀害。
@@ -474,7 +487,7 @@ tags:
 
 # 38 <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">经据典 [^038]
 - . yǐn jīng jù diǎn
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：援引，引用；
 - 据：依据。
 - <span style="color: #ff461f; font-size:18px">引用经典著作作为依据。</span>
@@ -485,6 +498,7 @@ tags:
 
 # 39 <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">吭高歌 [^039]
 - .yǐn háng gāo gē
+  - [ ] <span style="color: #4c221b">确定已经掌握了请打上对勾！</span>
 - 引：拉、伸长、扯开；
 - 吭：嗓子，喉咙。 
 - 高：声音响亮或尖锐。
@@ -497,7 +511,7 @@ tags:
 
 # 40 <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">锥刺股 [^040]
 - .yǐn zhuī cì gǔ 
-- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：用，拿。
 - 锥：锥子；
 - 股：大腿。
@@ -511,7 +525,7 @@ tags:
 
 # 41 <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">人入胜</span> [^041]
 - .yǐn rén rù shèng 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：吸引;
 - 胜：美妙的境地。特指优美的山水或古迹。
 - 吸引人进入佳境。
@@ -523,7 +537,7 @@ tags:
 
 # 42 <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">人注目</span> [^042]
 - .yǐn rén zhù mù 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：引起、吸引;
 - 注目：注视、注意。
 - <span style="color: #ff461f; font-size:18px">形容人或事物不一般，能吸引人们注意。</span>
@@ -534,7 +548,7 @@ tags:
 
 # 43 <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">咎自责</span> [^043]
 - .yǐn jiù zì zé
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：承当；自承。
 - 咎 jiù ：过失，罪责。
 - 引咎：把错误和过失归在自己身上。
@@ -547,7 +561,7 @@ tags:
 
 # 44 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> <span style="font-family:KaiTi;font-size:30px;color: #44cef6">引<span style="font-family:KaiTi; font-size:30px; color: #d7003a">以为戒</span> [^044]
 - .yǐn yǐ wéi jiè 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 引：拿；
 - 引以为：拿......作为
 - 戒：警戒。
@@ -563,7 +577,7 @@ tags:
 
 # 45 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 失之东隅 收之桑榆</span> [^045]
 - .shī zhī dōng yú shōu zhī sāng yú 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 东隅：东方日出处，指早晨；
 - 桑榆：日将落时余光在桑榆之间，因此用来指日落处，借指傍晚。
 - 在早晨失去的，在傍晚得到补偿。
@@ -575,7 +589,7 @@ tags:
 
 # 46 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 恶贯满盈</span> [^046]
 - .è guàn mǎn yíng 
-- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 贯：穿钱的绳子；
 - 盈：满。
 - 罪恶多得象穿钱已穿满一根绳子。
@@ -587,7 +601,7 @@ tags:
 
 # 47 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 步履维艰</span> [^047]
 - .bù lǚ wéi jiān 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 步、履：行走。
 - 步履：行走；
 - 维：文言助词。
@@ -600,7 +614,7 @@ tags:
 
 # 48<span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 不足挂齿</span> [^048]
 - .bù zú guà chǐ 
-- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+   - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 不足：不值得；
 - 挂齿：放在嘴上讲。
 - <span style="color: #ff461f; font-size:18px">表示不值得一提。</span>
@@ -611,7 +625,7 @@ tags:
 
 # 49 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 足智多谋</span> [^049]
 - .zú zhì duō móu 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 足：充实，足够；
 - 智：聪明、智慧；
 - 谋：计谋。
@@ -623,7 +637,7 @@ tags:
 
 # 50 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"> 出将入相</span> [^050]
 - .chū jiàng rù xiàng 
- - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
+    - [ ] <span style="color: #4c221b">已掌握请打上对勾！</span>
 - 出：出战。
 - 入：入朝。
 - 出征可为将帅，入朝可为丞相。
