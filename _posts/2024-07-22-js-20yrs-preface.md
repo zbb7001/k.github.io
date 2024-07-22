@@ -16,7 +16,6 @@ tags:
 # 01 <span style="font-family:KaiTi;font-size:27px;color: #d7003a">爱<span style="font-family:KaiTi; font-size:30px; color: #00e500">其</span>子，择师而教之；于<span style="font-family:KaiTi; font-size:30px; color: #ec6800">其</span>身也，则耻师焉，惑矣。</span>   [^001]
 - 爱自己的孩子，就挑选老师来教他；对自己呢，却以跟从老师（学习）为可耻，（真是）糊涂啊！
 - <span style="font-family:KaiTi; font-size:30px; color: #00e500">其</span>：自己的。
-- <table><td bgcolor=#426666><font size = '4'></font>则耻师焉<td bgcolor=#000000>1</table>
 - 于：介词，对于。
 - <span style="font-family:KaiTi; font-size:30px; color: #ec6800">其</span>：代词，他。
 - 身：自身，自己。
