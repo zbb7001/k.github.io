@@ -4,7 +4,7 @@ SEOTitle: 🥣 掱掱斯的博客
 header-img: img/post-bg-see-u-ali.jpg
 email: zbb7001@gmail.com
 description: "这是我的博客 | 爱人利物之谓仁"
-keyword: "Hux, 鬼栈, @zcr07"
+keyword: "教程, 成语, @zcr07"
 url: "https://www.zcr6.ggff.net/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: zcr6.ggff.net
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
