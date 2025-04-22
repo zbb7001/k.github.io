@@ -2,10 +2,10 @@
 title: ☄️掱掱斯☄️
 SEOTitle: 🥣 掱掱斯的博客
 header-img: img/post-bg-see-u-ali.jpg
-email: z@zcr07.us.kg
+email: zbb7001@gmail.com
 description: "这是我的博客 | 爱人利物之谓仁"
 keyword: "Hux, 鬼栈, @zcr07"
-url: "https://k.zbb07.us.kg/" # your host, for absolute URL
+url: "https://www.zcr6.ggff.net/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -91,12 +91,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "1", href: "http://mida.re/" },
+    { title: "2", href: "https://ebnbin.dev/" },
+    { title: "3", href: "http://kunq.me" },
+    { title: "4", href: "https://sherrywoo.me/" },
+    { title: "5", href: "http://blog.smdcn.net" },
+    { title: "6", href: "http://tiye.me/" },
+    { title: "7", href: "http://dhong.co" },
+    { title: "8", href: "http://ingf.github.io/" },
   ]
